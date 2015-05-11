@@ -7,7 +7,7 @@ I used the instructions manual for the board game Risk.
 The code is imcomplete (May 2015).
 There is no graphical user interface and is not a playable game.
 
-The solution is broken into the rules engine and the unit tests.  
+The solution is divided into the rules engine and the unit tests.  
 
 The rules engine code is devided into models and services.
 
